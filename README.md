@@ -57,4 +57,4 @@ Add your browser screenshots here (create a `screenshots/` folder in the project
 ![Without name](screenshots/without-name.png)
 
 ## Author
-Your Name
+Pranjal Dulhani
